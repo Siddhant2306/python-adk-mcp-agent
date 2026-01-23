@@ -1,0 +1,11 @@
+# Core Framework (Version 1.22.1 as of Jan 2026)
+google-adk>=1.22.1
+
+# Environment Variable Management
+python-dotenv>=1.2.1
+
+# Modern Data Validation (Dependency for ADK agents)
+pydantic>=2.12.5
+
+# High-performance HTTP client (Recommended for custom MCP requests)
+httpx>=0.28.1
